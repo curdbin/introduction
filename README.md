@@ -21,4 +21,5 @@
 改一个有牌面的组织名和头像。
 
 <s>建立一个成员页面，便于大家互相认识。大家可以留下自己的博客或社交平台的链接。</s>
+
 成员页面已建立，点击[链接](https://github.com/curdbin/introduction/edit/master/members.md)，立即进入修改页。
