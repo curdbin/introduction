@@ -32,6 +32,8 @@
 
 加入之后可以在[这里](https://github.com/curdbin/introduction/edit/master/members.md)加上自己的介绍。
 
+### [gitter](https://gitter.im/curdbin_community/)
+
 ### 现在的想法
 
 有任何想法都可以在[这里](https://github.com/curdbin/introduction/issues/new)提出哦
